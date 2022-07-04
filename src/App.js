@@ -57,6 +57,8 @@ function App() {
                 >
                 </SimpsonsComponent>
             </div>
+
+
             <div className={'flex'}>
                 <RickMorty
                     id={'1'}
@@ -106,7 +108,6 @@ function App() {
                     gender={'Male'}
                     image={'https://rickandmortyapi.com/api/character/avatar/22.jpeg'}
                 ></RickMorty>
-
             </div>
         </div>
     );
