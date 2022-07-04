@@ -1,0 +1,18 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 400px;
+    border: #282c34 2px solid;
+    border-radius: 5px;
+    margin: 25px;
+}
+.left img {
+    max-height: 300px;
+    max-width: 200px;
+    margin-right: 15px;
+}
+.id_gender {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
